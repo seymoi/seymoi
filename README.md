@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://imgur.com/a/baBQCbX" alt="Banner" style="width:100%;"/>
+</div>
+
 # Salut, moi c'est SEY 👋
 
 Bienvenue sur mon profil GitHub ! Je suis un développeur amateur, passionné par l'apprentissage en autodidacte. Depuis que j'ai commencé, je plonge dans le code pour créer des projets qui m'intéressent et relever des défis techniques. Je ne prétends pas tout savoir, mais j'apprends chaque jour un peu plus. 🚀
