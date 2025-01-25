@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/a/baBQCbX" alt="Banner" style="width:100%;"/>
+  <img src="https://imgur.com/jVslb0u" alt="Banner" style="width:100%;"/>
 </div>
 
 # Salut, moi c'est SEY 👋
